@@ -1,0 +1,11 @@
+{
+    "auto_start": true,
+    "auto_scan": true,
+    "auto_clean": false,
+    "deep_scan": true,
+    "quarantine_mode": true,
+    "hash_check": true,
+    "size_limit": 100,
+    "notifications": true,
+    "block_autorun": true
+}
